@@ -46,7 +46,7 @@ const start = async () => {
          level: 'silent'
       }),
       printQRInTerminal: true,
-      browser: ['@neoxr / neoxr-bot (multi-device)', 'Chrome', '2,2212,7'],
+      browser: ['@neoxr / neoxr-bot (multi-device)', 'Chrome', '2, 2212, 7'],
       auth: state
    })
 
